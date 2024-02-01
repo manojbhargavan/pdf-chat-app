@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.pdf-chat-app-env
+.env
 .Python
 build/
 develop-eggs/
